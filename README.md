@@ -1,6 +1,6 @@
 CMN224 Portfolio
 
-\# CMN224 Software Engineering Portfolio
+CMN224 Software Engineering Portfolio
 
 
 
