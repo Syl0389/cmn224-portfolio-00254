@@ -1,0 +1,29 @@
+@startuml
+
+node "Office Laptop" {
+  [Fee Management Application]
+  database "SQLite Database"
+}
+
+node "Printer" {
+  [Receipt Printing]
+}
+
+node "WiFi Connection" {
+  [Backup Sync]
+}
+
+[Fee Management Application] --> [Receipt Printing] : USB/Cable
+[Fee Management Application] --> [Backup Sync] : WiFi available most days
+
+note right
+Works when WiFi is down:
+- Record payments
+- View student records
+- Print receipts
+- Calculate balances
+
+Data stored locally in SQLite.
+end note
+
+@enduml
