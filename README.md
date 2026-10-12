@@ -10,9 +10,11 @@ Unit: CMN224 / CMP224 Software Engineering
 
 
 Portfolio Overview
+
 This portfolio contains my practical work, documentation, testing artefacts, and software engineering activities completed throughout the semester.
 
 Repository Structure
+
 Week 01
 Software Failure Analysis
 
@@ -35,6 +37,7 @@ Week 09
 UML Diagrams
 
 Skills Demonstrated
+
 Requirements Engineering
 UML Modelling
 Software Architecture
@@ -43,6 +46,7 @@ Git Version Control
 Software Documentation
 
 Reflection
+
 Throughout this portfolio, I developed practical skills in software engineering, including requirements analysis, UML modelling, software architecture design, testing, planning, and version control using Git and GitHub.
 
 Start Date: 21 July 2026
