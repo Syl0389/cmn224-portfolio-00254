@@ -1,4 +1,3 @@
-CMN224 Portfolio
 
 CMN224 Software Engineering Portfolio
 
@@ -44,6 +43,19 @@ Software Architecture
 Unit Testing
 Git Version Control
 Software Documentation
+
+Build Instructions
+dotnet build
+
+Test Instructions
+dotnet test
+
+Git Usage
+Git was used throughout the semester to track and manage changes.
+
+AI Usage
+
+Microsoft Copilot was used for editing and explaining code, documentation guidance, and repository organisation.
 
 Reflection
 
